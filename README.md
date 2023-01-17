@@ -1,5 +1,5 @@
 # MayBeALoser
- A game of rock, papers, scissors with an added twist
+ A game of rock, papers, scissors that sometimes you have to lose to win!
 # Installation
  1. Open up Xcode
  2. Click on File > Open
